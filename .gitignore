@@ -2,7 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-project.tm
+*.tm
 
 # Icon must end with two \r
 Icon
