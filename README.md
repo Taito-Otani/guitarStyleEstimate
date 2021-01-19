@@ -12,6 +12,7 @@ Tensorflow.jsにて転移学習させられるライブラリーを使って作�
     "git clone https://github.com/Taito-Otani/guitarStyleEstimate.git"
     "cd guitarStyleEstimate"
     "python -m http.server"
+    
 3) Open any browser 
     "localhost:8000"
 
