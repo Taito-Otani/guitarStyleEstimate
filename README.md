@@ -1,9 +1,6 @@
 # guitarStyleEstimate
 
 こちらは、エレキギターの入力の演奏スタイルを推定するモデルのプロトタイプです。
-Tensorflow.jsにて転移学習させられるライブラリーを使って作っています。
-そのため、WEBアプリとして実行できます。
-
 
 # Usage
 1) Connect guitar to your computer.
