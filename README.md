@@ -5,11 +5,21 @@ Tensorflow.jsにて転移学習させられるライブラリーを使って作�
 そのため、WEBアプリとして実行できます。
 
 
-# モチベーション
-エレキギターは、伝説的な多くのギタリストやサウンドエンジニアの手によって、
-音楽表現あるいは、視覚的な表現の拡張が行われてきた。
+# Usage
+1) Connect guitar to your computer.
 
-そこで、こちらのプロジェクトでは、
+2) Open command line
+    "git clone https://github.com/Taito-Otani/guitarStyleEstimate.git"
+    "cd guitarStyleEstimate"
+    "python -m http.server"
+3) Open any browser 
+    "localhost:8000"
+
+4) Fire the your guitar🔥
+
+
+# モチベーション
+こちらのプロジェクトでは、
 信号処理的にギター演奏のスタイルを推定することで、
 その情報から新たなエフェクターの開発やメディア技術との組み合わせによって、
 新しいパフォーマンスを開発することを目指しています
@@ -25,5 +35,6 @@ Tensorflow.jsにて転移学習させられるライブラリーを使って作�
 - chord　// 複数弦を弾いたコード
 - power　// 5度ずれで6弦5弦をピックで弾く
 - tapp　//  タッピング奏法
+
 
 
