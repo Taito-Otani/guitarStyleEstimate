@@ -39,3 +39,5 @@ Tensorflow.jsにて転移学習させられるライブラリーを使って作�
 
 
 
+Super Thanks
+- ml5.js!
