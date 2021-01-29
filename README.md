@@ -35,6 +35,3 @@
 - tapp　//  タッピング奏法
 
 
-
-Super Thanks
-- ml5.js!
