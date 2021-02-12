@@ -1,6 +1,16 @@
 # guitarStyleEstimate
 
-こちらは、エレキギターの入力の演奏スタイルを推定するモデルのプロトタイプです。
+This is prottype of guitar playing style estimate models.
+
+# classify
+
+- pick　//picking
+- cutting　// cutting
+- arp　//  arpegio
+- chorkling　// chorking
+- chord　// playing chords
+- power　// playing power chords.
+- tapp　//  right hand tapping like a van halen
 
 # Usage
 1) Connect guitar to your computer.
@@ -16,13 +26,15 @@
 4) Fire the your guitar🔥
 
 
-# モチベーション
+
+
+# JP
 こちらのプロジェクトでは、
 信号処理的にギター演奏のスタイルを推定することで、
 その情報から新たなエフェクターの開発やメディア技術との組み合わせによって、
 新しいパフォーマンスを開発することを目指しています
 
-# 分類
+## 分類
 
 現時点では以下の奏法を分類できないか試してみています。
 
